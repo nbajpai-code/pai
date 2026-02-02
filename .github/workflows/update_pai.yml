@@ -1,0 +1,35 @@
+name: Update Physical AI Resources
+
+on:
+  schedule:
+    # Run every Thursday at 08:00 UTC
+    - cron: '0 8 * * 4'
+  workflow_dispatch:
+
+jobs:
+  update-pai:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install arxiv feedparser pytz
+
+      - name: Fetch Updates
+        run: python scripts/fetch_pai_updates.py
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update physical ai resources [skip ci]"
+          file_pattern: 'PHYSICAL_AI_RESOURCES.md'
