@@ -75,11 +75,11 @@ A comprehensive, curated list of resources for **Physical AI**, the next frontie
 ---
 
 ## 🔄 Dynamic Updates
-*Last Updated: 2026-02-02 02:11:00 UTC*
+*Last Updated: 2026-02-05 08:35:25 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [Robust and Generalized Humanoid Motion Tracking](http://arxiv.org/abs/2601.23080v1) (2026-01-30)
-*   [EAG-PT: Emission-Aware Gaussians and Path Tracing for Indoor Scene Reconstruction and Editing](http://arxiv.org/abs/2601.23065v1) (2026-01-30)
-*   [Alignment among Language, Vision and Action Representations](http://arxiv.org/abs/2601.22948v1) (2026-01-30)
-*   [Vision-Language Models Unlock Task-Centric Latent Actions](http://arxiv.org/abs/2601.22714v1) (2026-01-30)
-*   [RoboStriker: Hierarchical Decision-Making for Autonomous Humanoid Boxing](http://arxiv.org/abs/2601.22517v1) (2026-01-30)
+*   [PDF-HR: Pose Distance Fields for Humanoid Robots](http://arxiv.org/abs/2602.04851v1) (2026-02-04)
+*   [Act, Sense, Act: Learning Non-Markovian Active Perception Strategies from Large-Scale Egocentric Human Data](http://arxiv.org/abs/2602.04600v1) (2026-02-04)
+*   [EgoActor: Grounding Task Planning into Spatial-aware Egocentric Actions for Humanoid Robots via Visual-Language Models](http://arxiv.org/abs/2602.04515v1) (2026-02-04)
+*   [HoRD: Robust Humanoid Control via History-Conditioned Reinforcement Learning and Online Distillation](http://arxiv.org/abs/2602.04412v1) (2026-02-04)
+*   [Self-evolving Embodied AI](http://arxiv.org/abs/2602.04411v1) (2026-02-04)
