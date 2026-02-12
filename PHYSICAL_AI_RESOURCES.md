@@ -75,11 +75,11 @@ A comprehensive, curated list of resources for **Physical AI**, the next frontie
 ---
 
 ## 🔄 Dynamic Updates
-*Last Updated: 2026-02-05 08:35:25 UTC*
+*Last Updated: 2026-02-12 08:37:53 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [PDF-HR: Pose Distance Fields for Humanoid Robots](http://arxiv.org/abs/2602.04851v1) (2026-02-04)
-*   [Act, Sense, Act: Learning Non-Markovian Active Perception Strategies from Large-Scale Egocentric Human Data](http://arxiv.org/abs/2602.04600v1) (2026-02-04)
-*   [EgoActor: Grounding Task Planning into Spatial-aware Egocentric Actions for Humanoid Robots via Visual-Language Models](http://arxiv.org/abs/2602.04515v1) (2026-02-04)
-*   [HoRD: Robust Humanoid Control via History-Conditioned Reinforcement Learning and Online Distillation](http://arxiv.org/abs/2602.04412v1) (2026-02-04)
-*   [Self-evolving Embodied AI](http://arxiv.org/abs/2602.04411v1) (2026-02-04)
+*   [APEX: Learning Adaptive High-Platform Traversal for Humanoid Robots](http://arxiv.org/abs/2602.11143v1) (2026-02-11)
+*   [PhyCritic: Multimodal Critic Models for Physical AI](http://arxiv.org/abs/2602.11124v1) (2026-02-11)
+*   [RISE: Self-Improving Robot Policy with Compositional World Model](http://arxiv.org/abs/2602.11075v1) (2026-02-11)
+*   [Scaling World Model for Hierarchical Manipulation Policies](http://arxiv.org/abs/2602.10983v1) (2026-02-11)
+*   [RADAR: Benchmarking Vision-Language-Action Generalization via Real-World Dynamics, Spatial-Physical Intelligence, and Autonomous Evaluation](http://arxiv.org/abs/2602.10980v1) (2026-02-11)
