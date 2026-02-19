@@ -75,11 +75,11 @@ A comprehensive, curated list of resources for **Physical AI**, the next frontie
 ---
 
 ## 🔄 Dynamic Updates
-*Last Updated: 2026-02-12 08:37:53 UTC*
+*Last Updated: 2026-02-19 08:36:01 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [APEX: Learning Adaptive High-Platform Traversal for Humanoid Robots](http://arxiv.org/abs/2602.11143v1) (2026-02-11)
-*   [PhyCritic: Multimodal Critic Models for Physical AI](http://arxiv.org/abs/2602.11124v1) (2026-02-11)
-*   [RISE: Self-Improving Robot Policy with Compositional World Model](http://arxiv.org/abs/2602.11075v1) (2026-02-11)
-*   [Scaling World Model for Hierarchical Manipulation Policies](http://arxiv.org/abs/2602.10983v1) (2026-02-11)
-*   [RADAR: Benchmarking Vision-Language-Action Generalization via Real-World Dynamics, Spatial-Physical Intelligence, and Autonomous Evaluation](http://arxiv.org/abs/2602.10980v1) (2026-02-11)
+*   [EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data](http://arxiv.org/abs/2602.16710v1) (2026-02-18)
+*   [Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation](http://arxiv.org/abs/2602.16705v1) (2026-02-18)
+*   [Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching](http://arxiv.org/abs/2602.15827v1) (2026-02-17)
+*   [MeshMimic: Geometry-Aware Humanoid Motion Learning through 3D Scene Reconstruction](http://arxiv.org/abs/2602.15733v1) (2026-02-17)
+*   [World Action Models are Zero-shot Policies](http://arxiv.org/abs/2602.15922v1) (2026-02-17)
