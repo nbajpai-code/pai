@@ -75,11 +75,11 @@ A comprehensive, curated list of resources for **Physical AI**, the next frontie
 ---
 
 ## 🔄 Dynamic Updates
-*Last Updated: 2026-02-19 08:36:01 UTC*
+*Last Updated: 2026-02-26 08:38:10 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data](http://arxiv.org/abs/2602.16710v1) (2026-02-18)
-*   [Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation](http://arxiv.org/abs/2602.16705v1) (2026-02-18)
-*   [Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching](http://arxiv.org/abs/2602.15827v1) (2026-02-17)
-*   [MeshMimic: Geometry-Aware Humanoid Motion Learning through 3D Scene Reconstruction](http://arxiv.org/abs/2602.15733v1) (2026-02-17)
-*   [World Action Models are Zero-shot Policies](http://arxiv.org/abs/2602.15922v1) (2026-02-17)
+*   [World Guidance: World Modeling in Condition Space for Action Generation](http://arxiv.org/abs/2602.22010v1) (2026-02-25)
+*   [Humanizing Robot Gaze Shifts: A Framework for Natural Gaze Shifts in Humanoid Robots](http://arxiv.org/abs/2602.21983v1) (2026-02-25)
+*   [Joint-Aligned Latent Action: Towards Scalable VLA Pretraining in the Wild](http://arxiv.org/abs/2602.21736v1) (2026-02-25)
+*   [LessMimic: Long-Horizon Humanoid Interaction with Unified Distance Field Representations](http://arxiv.org/abs/2602.21723v1) (2026-02-25)
+*   [Self-Correcting VLA: Online Action Refinement via Sparse World Imagination](http://arxiv.org/abs/2602.21633v1) (2026-02-25)
