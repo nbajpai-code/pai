@@ -75,11 +75,11 @@ A comprehensive, curated list of resources for **Physical AI**, the next frontie
 ---
 
 ## 🔄 Dynamic Updates
-*Last Updated: 2026-02-26 08:38:10 UTC*
+*Last Updated: 2026-03-05 08:33:03 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [World Guidance: World Modeling in Condition Space for Action Generation](http://arxiv.org/abs/2602.22010v1) (2026-02-25)
-*   [Humanizing Robot Gaze Shifts: A Framework for Natural Gaze Shifts in Humanoid Robots](http://arxiv.org/abs/2602.21983v1) (2026-02-25)
-*   [Joint-Aligned Latent Action: Towards Scalable VLA Pretraining in the Wild](http://arxiv.org/abs/2602.21736v1) (2026-02-25)
-*   [LessMimic: Long-Horizon Humanoid Interaction with Unified Distance Field Representations](http://arxiv.org/abs/2602.21723v1) (2026-02-25)
-*   [Self-Correcting VLA: Online Action Refinement via Sparse World Imagination](http://arxiv.org/abs/2602.21633v1) (2026-02-25)
+*   [SkillVLA: Tackling Combinatorial Diversity in Dual-Arm Manipulation via Skill Reuse](http://arxiv.org/abs/2603.03836v1) (2026-03-04)
+*   [Pretrained Vision-Language-Action Models are Surprisingly Resistant to Forgetting in Continual Learning](http://arxiv.org/abs/2603.03818v1) (2026-03-04)
+*   [Cognition to Control - Multi-Agent Learning for Human-Humanoid Collaborative Transport](http://arxiv.org/abs/2603.03768v1) (2026-03-04)
+*   [HALyPO: Heterogeneous-Agent Lyapunov Policy Optimization for Human-Robot Collaboration](http://arxiv.org/abs/2603.03741v1) (2026-03-04)
+*   [PROSPECT: Unified Streaming Vision-Language Navigation via Semantic--Spatial Fusion and Latent Predictive Representation](http://arxiv.org/abs/2603.03739v1) (2026-03-04)
