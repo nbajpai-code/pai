@@ -75,11 +75,11 @@ A comprehensive, curated list of resources for **Physical AI**, the next frontie
 ---
 
 ## 🔄 Dynamic Updates
-*Last Updated: 2026-03-05 08:33:03 UTC*
+*Last Updated: 2026-03-12 08:35:14 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [SkillVLA: Tackling Combinatorial Diversity in Dual-Arm Manipulation via Skill Reuse](http://arxiv.org/abs/2603.03836v1) (2026-03-04)
-*   [Pretrained Vision-Language-Action Models are Surprisingly Resistant to Forgetting in Continual Learning](http://arxiv.org/abs/2603.03818v1) (2026-03-04)
-*   [Cognition to Control - Multi-Agent Learning for Human-Humanoid Collaborative Transport](http://arxiv.org/abs/2603.03768v1) (2026-03-04)
-*   [HALyPO: Heterogeneous-Agent Lyapunov Policy Optimization for Human-Robot Collaboration](http://arxiv.org/abs/2603.03741v1) (2026-03-04)
-*   [PROSPECT: Unified Streaming Vision-Language Navigation via Semantic--Spatial Fusion and Latent Predictive Representation](http://arxiv.org/abs/2603.03739v1) (2026-03-04)
+*   [RL-Augmented MPC for Non-Gaited Legged and Hybrid Locomotion](http://arxiv.org/abs/2603.10878v1) (2026-03-11)
+*   [FG-CLTP: Fine-Grained Contrastive Language Tactile Pretraining for Robotic Manipulation](http://arxiv.org/abs/2603.10871v1) (2026-03-11)
+*   [FutureVLA: Joint Visuomotor Prediction for Vision-Language-Action Model](http://arxiv.org/abs/2603.10712v1) (2026-03-11)
+*   [Splat2Real: Novel-view Scaling for Physical AI with 3D Gaussian Splatting](http://arxiv.org/abs/2603.10638v1) (2026-03-11)
+*   [DepthCache: Depth-Guided Training-Free Visual Token Merging for Vision-Language-Action Model Inference](http://arxiv.org/abs/2603.10469v1) (2026-03-11)
