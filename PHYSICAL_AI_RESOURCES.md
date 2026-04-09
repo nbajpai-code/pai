@@ -75,11 +75,11 @@ A comprehensive, curated list of resources for **Physical AI**, the next frontie
 ---
 
 ## 🔄 Dynamic Updates
-*Last Updated: 2026-04-02 08:48:57 UTC*
+*Last Updated: 2026-04-09 09:00:36 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [BAT: Balancing Agility and Stability via Online Policy Switching for Long-Horizon Whole-Body Humanoid Control](http://arxiv.org/abs/2604.01064v1) (2026-04-01)
-*   [DVGT-2: Vision-Geometry-Action Model for Autonomous Driving at Scale](http://arxiv.org/abs/2604.00813v1) (2026-04-01)
-*   [Learning Humanoid Navigation from Human Data](http://arxiv.org/abs/2604.00416v1) (2026-04-01)
-*   [Hybrid Energy-Based Models for Physical AI: Provably Stable Identification of Port-Hamiltonian Dynamics](http://arxiv.org/abs/2604.00277v1) (2026-03-31)
-*   [DreamControl-v2: Simpler and Scalable Autonomous Humanoid Skills via Trainable Guided Diffusion Priors](http://arxiv.org/abs/2604.00202v1) (2026-03-31)
+*   [Fast-dVLM: Efficient Block-Diffusion VLM via Direct Conversion from Autoregressive VLM](http://arxiv.org/abs/2604.06832v1) (2026-04-08)
+*   [Infrastructure First: Enabling Embodied AI for Science in the Global South](http://arxiv.org/abs/2604.06722v1) (2026-04-08)
+*   [Hazard Management in Robot-Assisted Mammography Support](http://arxiv.org/abs/2604.05749v1) (2026-04-07)
+*   [Rectified Schrödinger Bridge Matching for Few-Step Visual Navigation](http://arxiv.org/abs/2604.05673v1) (2026-04-07)
+*   [A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model](http://arxiv.org/abs/2604.05672v2) (2026-04-07)
