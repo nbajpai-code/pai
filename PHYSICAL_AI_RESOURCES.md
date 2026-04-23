@@ -75,11 +75,11 @@ A comprehensive, curated list of resources for **Physical AI**, the next frontie
 ---
 
 ## 🔄 Dynamic Updates
-*Last Updated: 2026-04-16 09:11:51 UTC*
+*Last Updated: 2026-04-23 09:20:12 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System](http://arxiv.org/abs/2604.14125v1) (2026-04-15)
-*   [[Emerging Ideas] Artificial Tripartite Intelligence: A Bio-Inspired, Sensor-First Architecture for Physical AI](http://arxiv.org/abs/2604.13959v1) (2026-04-15)
-*   [Goal2Skill: Long-Horizon Manipulation with Adaptive Planning and Reflection](http://arxiv.org/abs/2604.13942v1) (2026-04-15)
-*   [EmbodiedClaw: Conversational Workflow Execution for Embodied AI Development](http://arxiv.org/abs/2604.13800v1) (2026-04-15)
-*   [Jump-Start Reinforcement Learning with Vision-Language-Action Regularization](http://arxiv.org/abs/2604.13733v1) (2026-04-15)
+*   [PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance](http://arxiv.org/abs/2604.20834v1) (2026-04-22)
+*   [Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models](http://arxiv.org/abs/2604.20472v1) (2026-04-22)
+*   [A Vision-Language-Action Model for Adaptive Ultrasound-Guided Needle Insertion and Needle Tracking](http://arxiv.org/abs/2604.20347v1) (2026-04-22)
+*   [Cortex 2.0: Grounding World Models in Real-World Industrial Deployment](http://arxiv.org/abs/2604.20246v1) (2026-04-22)
+*   [LLM-Guided Safety Agent for Edge Robotics with an ISO-Compliant Perception-Compute-Control Architecture](http://arxiv.org/abs/2604.20193v1) (2026-04-22)
