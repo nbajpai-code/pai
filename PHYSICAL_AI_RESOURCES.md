@@ -75,11 +75,11 @@ A comprehensive, curated list of resources for **Physical AI**, the next frontie
 ---
 
 ## 🔄 Dynamic Updates
-*Last Updated: 2026-04-23 09:20:12 UTC*
+*Last Updated: 2026-04-30 10:00:41 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance](http://arxiv.org/abs/2604.20834v1) (2026-04-22)
-*   [Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models](http://arxiv.org/abs/2604.20472v1) (2026-04-22)
-*   [A Vision-Language-Action Model for Adaptive Ultrasound-Guided Needle Insertion and Needle Tracking](http://arxiv.org/abs/2604.20347v1) (2026-04-22)
-*   [Cortex 2.0: Grounding World Models in Real-World Industrial Deployment](http://arxiv.org/abs/2604.20246v1) (2026-04-22)
-*   [LLM-Guided Safety Agent for Edge Robotics with an ISO-Compliant Perception-Compute-Control Architecture](http://arxiv.org/abs/2604.20193v1) (2026-04-22)
+*   [Walk With Me: Long-Horizon Social Navigation for Human-Centric Outdoor Assistance](http://arxiv.org/abs/2604.26839v1) (2026-04-29)
+*   [3D Generation for Embodied AI and Robotic Simulation: A Survey](http://arxiv.org/abs/2604.26509v1) (2026-04-29)
+*   [Efficient, VRAM-Constrained xLM Inference on Clients](http://arxiv.org/abs/2604.26334v1) (2026-04-29)
+*   [Multiple Consistent 2D-3D Mappings for Robust Zero-Shot 3D Visual Grounding](http://arxiv.org/abs/2604.26261v1) (2026-04-29)
+*   [GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning](http://arxiv.org/abs/2604.25459v1) (2026-04-28)
