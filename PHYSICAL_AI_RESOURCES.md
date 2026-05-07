@@ -75,11 +75,7 @@ A comprehensive, curated list of resources for **Physical AI**, the next frontie
 ---
 
 ## 🔄 Dynamic Updates
-*Last Updated: 2026-04-30 10:00:41 UTC*
+*Last Updated: 2026-05-07 10:17:55 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [Walk With Me: Long-Horizon Social Navigation for Human-Centric Outdoor Assistance](http://arxiv.org/abs/2604.26839v1) (2026-04-29)
-*   [3D Generation for Embodied AI and Robotic Simulation: A Survey](http://arxiv.org/abs/2604.26509v1) (2026-04-29)
-*   [Efficient, VRAM-Constrained xLM Inference on Clients](http://arxiv.org/abs/2604.26334v1) (2026-04-29)
-*   [Multiple Consistent 2D-3D Mappings for Robust Zero-Shot 3D Visual Grounding](http://arxiv.org/abs/2604.26261v1) (2026-04-29)
-*   [GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning](http://arxiv.org/abs/2604.25459v1) (2026-04-28)
+No new research papers found.
