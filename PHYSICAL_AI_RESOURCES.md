@@ -75,11 +75,7 @@ A comprehensive, curated list of resources for **Physical AI**, the next frontie
 ---
 
 ## 🔄 Dynamic Updates
-*Last Updated: 2026-05-14 10:09:18 UTC*
+*Last Updated: 2026-05-21 11:15:40 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs](http://arxiv.org/abs/2605.13778v1) (2026-05-13)
-*   [FrameSkip: Learning from Fewer but More Informative Frames in VLA Training](http://arxiv.org/abs/2605.13757v1) (2026-05-13)
-*   [Guide, Think, Act: Interactive Embodied Reasoning in Vision-Language-Action Models](http://arxiv.org/abs/2605.13632v1) (2026-05-13)
-*   [HetScene: Heterogeneity-Aware Diffusion for Dense Indoor Scene Generation](http://arxiv.org/abs/2605.13586v1) (2026-05-13)
-*   [AttenA+: Rectifying Action Inequality in Robotic Foundation Models](http://arxiv.org/abs/2605.13548v1) (2026-05-13)
+No new research papers found.
