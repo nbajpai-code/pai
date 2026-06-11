@@ -75,7 +75,11 @@ A comprehensive, curated list of resources for **Physical AI**, the next frontie
 ---
 
 ## 🔄 Dynamic Updates
-*Last Updated: 2026-06-04 10:58:10 UTC*
+*Last Updated: 2026-06-11 12:04:39 UTC*
 
 ### 📄 Latest Research (Arxiv)
-No new research papers found.
+*   [World Pilot: Steering Vision-Language-Action Models with World-Action Priors](http://arxiv.org/abs/2606.12403v1) (2026-06-10)
+*   [VLGA: Vision-Language-Geometry-Action Models for Autonomous Driving](http://arxiv.org/abs/2606.12396v1) (2026-06-10)
+*   [APT: Action Expert Pretraining Improves Instruction Generalization of Vision-Language-Action Policies](http://arxiv.org/abs/2606.12366v1) (2026-06-10)
+*   [CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy](http://arxiv.org/abs/2606.12352v1) (2026-06-10)
+*   [Learning What to Say to Your VLA: Mostly Harmless Vision Language Action Model Steering](http://arxiv.org/abs/2606.12299v1) (2026-06-10)
