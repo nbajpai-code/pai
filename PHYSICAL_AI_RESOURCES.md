@@ -75,11 +75,11 @@ A comprehensive, curated list of resources for **Physical AI**, the next frontie
 ---
 
 ## 🔄 Dynamic Updates
-*Last Updated: 2026-06-25 10:35:58 UTC*
+*Last Updated: 2026-07-02 10:31:01 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [Learning Action Priors for Cross-embodiment Robot Manipulation](http://arxiv.org/abs/2606.26095v1) (2026-06-24)
-*   [In-Context World Modeling for Robotic Control](http://arxiv.org/abs/2606.26025v1) (2026-06-24)
-*   [FORCE: Efficient VLA Reinforcement Fine-Tuning via Value-Calibrated Warm-up and Self-Distillation](http://arxiv.org/abs/2606.26006v1) (2026-06-24)
-*   [Action ControlNet: A Lightweight Delay-Aware Adapter for Smooth Asynchronous Control in Vision-Language-Action Models](http://arxiv.org/abs/2606.25985v1) (2026-06-24)
-*   [ROAD-VLA: Robust Online Adaptation via Self-Distillation for Vision-Language-Action Models](http://arxiv.org/abs/2606.25800v1) (2026-06-24)
+*   [FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model](http://arxiv.org/abs/2607.01212v1) (2026-07-01)
+*   [Human-Centric Transferable Tactile Pre-Training for Dexterous Robotic Manipulation](http://arxiv.org/abs/2607.01067v1) (2026-07-01)
+*   [Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts](http://arxiv.org/abs/2607.00666v1) (2026-07-01)
+*   [Unleashing More Actions via Action Compositional Training for VLA Models](http://arxiv.org/abs/2607.00351v1) (2026-07-01)
+*   [Evolving Intelligent Complex Systems via Intellicise Networks: Architecture, Technologies, and Pathways](http://arxiv.org/abs/2607.00316v1) (2026-07-01)
