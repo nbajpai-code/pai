@@ -75,11 +75,11 @@ A comprehensive, curated list of resources for **Physical AI**, the next frontie
 ---
 
 ## 🔄 Dynamic Updates
-*Last Updated: 2026-07-02 10:31:01 UTC*
+*Last Updated: 2026-07-09 10:47:43 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model](http://arxiv.org/abs/2607.01212v1) (2026-07-01)
-*   [Human-Centric Transferable Tactile Pre-Training for Dexterous Robotic Manipulation](http://arxiv.org/abs/2607.01067v1) (2026-07-01)
-*   [Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts](http://arxiv.org/abs/2607.00666v1) (2026-07-01)
-*   [Unleashing More Actions via Action Compositional Training for VLA Models](http://arxiv.org/abs/2607.00351v1) (2026-07-01)
-*   [Evolving Intelligent Complex Systems via Intellicise Networks: Architecture, Technologies, and Pathways](http://arxiv.org/abs/2607.00316v1) (2026-07-01)
+*   [Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation](http://arxiv.org/abs/2607.07608v1) (2026-07-08)
+*   [Smooth Operator: A Real-Time Sampling-Based Algorithm for Kinematic Hand Retargeting](http://arxiv.org/abs/2607.07491v1) (2026-07-08)
+*   [EmbodiedGen V2: An Agentic, Simulation-Ready 3D World Engine for Embodied AI](http://arxiv.org/abs/2607.07459v1) (2026-07-08)
+*   [Immersive Social Interaction with VR and LLM-Assisted Humanoids](http://arxiv.org/abs/2607.07430v1) (2026-07-08)
+*   [Multi-Agent Robotic Control with Onboard Vision-Language Models](http://arxiv.org/abs/2607.07403v1) (2026-07-08)
