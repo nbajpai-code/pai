@@ -75,11 +75,11 @@ A comprehensive, curated list of resources for **Physical AI**, the next frontie
 ---
 
 ## 🔄 Dynamic Updates
-*Last Updated: 2026-07-16 10:01:06 UTC*
+*Last Updated: 2026-07-23 10:13:16 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [S-squared-VLA: Decoupling Semantic and Spatial Streams in Vision-Language-Action Models for Autonomous Driving](http://arxiv.org/abs/2607.13926v1) (2026-07-15)
-*   [Learning Robust Execution in Robotic Manipulation with Agentic Reinforcement Learning](http://arxiv.org/abs/2607.13818v1) (2026-07-15)
-*   [UESF-Bench: Benchmarking and Probing for Unified Embodied Seeking and Following](http://arxiv.org/abs/2607.13621v1) (2026-07-15)
-*   [Semantic Anchoring for Robotic Action Representations](http://arxiv.org/abs/2607.13597v1) (2026-07-15)
-*   [UniPhysGen: Unified Physical Grounding for Simulation-Ready 3D Assets](http://arxiv.org/abs/2607.13586v1) (2026-07-15)
+*   [Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning](http://arxiv.org/abs/2607.20399v1) (2026-07-22)
+*   [Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids](http://arxiv.org/abs/2607.20345v1) (2026-07-22)
+*   [ReferTrack: Referring Then Tracking for Embodied Visual Tracking](http://arxiv.org/abs/2607.20061v1) (2026-07-22)
+*   [Odin: Primitive-Level Synchronization for Distributed Point-Based Neural Rendering](http://arxiv.org/abs/2607.19893v1) (2026-07-22)
+*   [Clinical Pathways as Safety Specifications for Physical AI in Hospital Wards](http://arxiv.org/abs/2607.19827v1) (2026-07-22)
