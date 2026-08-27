@@ -75,11 +75,11 @@ A comprehensive, curated list of resources for **Physical AI**, the next frontie
 ---
 
 ## 🔄 Dynamic Updates
-*Last Updated: 2026-08-20 08:28:39 UTC*
+*Last Updated: 2026-08-27 18:41:39 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [GS-VLA: Plug-and-Play Viewpoint Canonicalization for Frozen VLA Policies via Gaussian Splatting](http://arxiv.org/abs/2608.19066v1) (2026-08-19)
-*   [Beyond Placement and Articulation: Usage-Driven Code Scenes for Embodied Interaction](http://arxiv.org/abs/2608.18840v1) (2026-08-19)
-*   [CL4D: Contrastive Language-4D Pretraining for Vision-Language Reasoning in Dynamic Scenes](http://arxiv.org/abs/2608.18734v1) (2026-08-19)
-*   [Vision-Language Models for Egocentric Video: From Hand-Object Interaction to Embodied AI](http://arxiv.org/abs/2608.18671v1) (2026-08-19)
-*   [The Embodiment Gap in Robot Foundation Models](http://arxiv.org/abs/2608.18433v1) (2026-08-19)
+*   [MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching](http://arxiv.org/abs/2608.26094v1) (2026-08-26)
+*   [StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models](http://arxiv.org/abs/2608.26067v1) (2026-08-26)
+*   [One Policy, Many Embodiments: Unified Camera-Centric Action Geometry Pre-training for Heterogeneous Embodied Manipulation](http://arxiv.org/abs/2608.26058v1) (2026-08-26)
+*   [A Statistical Audit of Physical AI Benchmark Redundancy](http://arxiv.org/abs/2608.25940v1) (2026-08-26)
+*   [MA-VLA: Multi-Arm Vision-Language-Action Model for Collaboration and Compositional Generalization](http://arxiv.org/abs/2608.25864v1) (2026-08-26)
