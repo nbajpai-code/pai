@@ -75,11 +75,11 @@ A comprehensive, curated list of resources for **Physical AI**, the next frontie
 ---
 
 ## 🔄 Dynamic Updates
-*Last Updated: 2026-08-27 18:41:39 UTC*
+*Last Updated: 2026-09-03 12:25:56 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching](http://arxiv.org/abs/2608.26094v1) (2026-08-26)
-*   [StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models](http://arxiv.org/abs/2608.26067v1) (2026-08-26)
-*   [One Policy, Many Embodiments: Unified Camera-Centric Action Geometry Pre-training for Heterogeneous Embodied Manipulation](http://arxiv.org/abs/2608.26058v1) (2026-08-26)
-*   [A Statistical Audit of Physical AI Benchmark Redundancy](http://arxiv.org/abs/2608.25940v1) (2026-08-26)
-*   [MA-VLA: Multi-Arm Vision-Language-Action Model for Collaboration and Compositional Generalization](http://arxiv.org/abs/2608.25864v1) (2026-08-26)
+*   [Efficient All-in-One Weather Restoration using Spectral Harmonization](http://arxiv.org/abs/2609.02839v1) (2026-09-02)
+*   [HINT: Human-Intent Inception for Long-Horizon Robot Manipulation](http://arxiv.org/abs/2609.02653v1) (2026-09-02)
+*   [Latent Cluster Analysis for Vision-Language-Action Models](http://arxiv.org/abs/2609.02634v1) (2026-09-02)
+*   [ZETA: A Controlled Study of Zero-Shot Cross-Embodiment VLA Transfer for Tabletop Manipulation](http://arxiv.org/abs/2609.02546v1) (2026-09-02)
+*   [Humanoid Safe Stop via Learned Stoppability Value](http://arxiv.org/abs/2609.02358v1) (2026-09-02)
