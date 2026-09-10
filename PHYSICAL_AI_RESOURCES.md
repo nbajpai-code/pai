@@ -75,11 +75,11 @@ A comprehensive, curated list of resources for **Physical AI**, the next frontie
 ---
 
 ## 🔄 Dynamic Updates
-*Last Updated: 2026-09-03 12:25:56 UTC*
+*Last Updated: 2026-09-10 12:34:22 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [Efficient All-in-One Weather Restoration using Spectral Harmonization](http://arxiv.org/abs/2609.02839v1) (2026-09-02)
-*   [HINT: Human-Intent Inception for Long-Horizon Robot Manipulation](http://arxiv.org/abs/2609.02653v1) (2026-09-02)
-*   [Latent Cluster Analysis for Vision-Language-Action Models](http://arxiv.org/abs/2609.02634v1) (2026-09-02)
-*   [ZETA: A Controlled Study of Zero-Shot Cross-Embodiment VLA Transfer for Tabletop Manipulation](http://arxiv.org/abs/2609.02546v1) (2026-09-02)
-*   [Humanoid Safe Stop via Learned Stoppability Value](http://arxiv.org/abs/2609.02358v1) (2026-09-02)
+*   [Frequency-Conditioned Flow Matching for Vision-Language-Action Models](http://arxiv.org/abs/2609.10405v1) (2026-09-09)
+*   [PACE: Perceived-Latency-Aware Cascading Service Routing and Filler Control for QoE-Efficient Retrieval-Augmented Dialogue Serving](http://arxiv.org/abs/2609.10372v1) (2026-09-09)
+*   [SwingBot: Learning Whole-Body Brachiation for Humanoid Robots](http://arxiv.org/abs/2609.10283v1) (2026-09-09)
+*   [FolDeX: A Physical-World Benchmark for Long-Horizon Robotic Manipulation of Deformable Objects](http://arxiv.org/abs/2609.10243v1) (2026-09-09)
+*   [RoboDrop: Curating VLA Post-Training Data via Local Gradient Compatibility](http://arxiv.org/abs/2609.10021v1) (2026-09-09)
