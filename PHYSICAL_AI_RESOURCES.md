@@ -75,11 +75,11 @@ A comprehensive, curated list of resources for **Physical AI**, the next frontie
 ---
 
 ## 🔄 Dynamic Updates
-*Last Updated: 2026-09-10 12:34:22 UTC*
+*Last Updated: 2026-09-17 12:55:19 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [Frequency-Conditioned Flow Matching for Vision-Language-Action Models](http://arxiv.org/abs/2609.10405v1) (2026-09-09)
-*   [PACE: Perceived-Latency-Aware Cascading Service Routing and Filler Control for QoE-Efficient Retrieval-Augmented Dialogue Serving](http://arxiv.org/abs/2609.10372v1) (2026-09-09)
-*   [SwingBot: Learning Whole-Body Brachiation for Humanoid Robots](http://arxiv.org/abs/2609.10283v1) (2026-09-09)
-*   [FolDeX: A Physical-World Benchmark for Long-Horizon Robotic Manipulation of Deformable Objects](http://arxiv.org/abs/2609.10243v1) (2026-09-09)
-*   [RoboDrop: Curating VLA Post-Training Data via Local Gradient Compatibility](http://arxiv.org/abs/2609.10021v1) (2026-09-09)
+*   [In-Context Robot Learning with VLM Agents](http://arxiv.org/abs/2609.19138v1) (2026-09-16)
+*   [rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference](http://arxiv.org/abs/2609.19104v1) (2026-09-16)
+*   [Quantifying the Effect of HCLs on a Fixed-Microarchitecture MXFP4 Accelerator](http://arxiv.org/abs/2609.18792v1) (2026-09-16)
+*   [PASSAGE: Scaling Scene-Aligned Motion Learning for Perceptive Humanoid Traversal in Cluttered Environments](http://arxiv.org/abs/2609.18732v1) (2026-09-16)
+*   [VLA-ULAP: Interleaving Cloud VLA Calls with Ultra-Lightweight Local Action Prediction at the Edge](http://arxiv.org/abs/2609.18663v1) (2026-09-16)
