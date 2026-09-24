@@ -75,11 +75,11 @@ A comprehensive, curated list of resources for **Physical AI**, the next frontie
 ---
 
 ## 🔄 Dynamic Updates
-*Last Updated: 2026-09-17 12:55:19 UTC*
+*Last Updated: 2026-09-24 13:03:57 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [In-Context Robot Learning with VLM Agents](http://arxiv.org/abs/2609.19138v1) (2026-09-16)
-*   [rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference](http://arxiv.org/abs/2609.19104v1) (2026-09-16)
-*   [Quantifying the Effect of HCLs on a Fixed-Microarchitecture MXFP4 Accelerator](http://arxiv.org/abs/2609.18792v1) (2026-09-16)
-*   [PASSAGE: Scaling Scene-Aligned Motion Learning for Perceptive Humanoid Traversal in Cluttered Environments](http://arxiv.org/abs/2609.18732v1) (2026-09-16)
-*   [VLA-ULAP: Interleaving Cloud VLA Calls with Ultra-Lightweight Local Action Prediction at the Edge](http://arxiv.org/abs/2609.18663v1) (2026-09-16)
+*   [LiMA: Bridging Long-term Imagination to Real-time Dexterous Manipulation via Asynchronous Diffusion](http://arxiv.org/abs/2609.28431v1) (2026-09-23)
+*   [ForgetMimic: Motion Unlearning for Reinforcement Learning Humanoid Control](http://arxiv.org/abs/2609.28378v1) (2026-09-23)
+*   [AnchorReasoning: A Visual Grounding and Causal Reasoning Dataset in Long-Tail Autonomous Driving Scenarios](http://arxiv.org/abs/2609.28366v1) (2026-09-23)
+*   [TANDEM: Task and Motion Planning with As-Needed Demonstrations for Efficient Vision-Language-Action Model Fine-tuning](http://arxiv.org/abs/2609.28314v1) (2026-09-23)
+*   [MemBodied: Recurrent Associative Memory for Vision-Language-Action Models](http://arxiv.org/abs/2609.28256v1) (2026-09-23)
