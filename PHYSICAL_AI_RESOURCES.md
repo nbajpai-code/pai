@@ -75,11 +75,11 @@ A comprehensive, curated list of resources for **Physical AI**, the next frontie
 ---
 
 ## 🔄 Dynamic Updates
-*Last Updated: 2026-10-01 14:58:29 UTC*
+*Last Updated: 2026-10-08 15:06:12 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents](http://arxiv.org/abs/2609.40325v1) (2026-09-30)
-*   [StreamRig: Exploiting Intra-Rig Geometry for Streaming Multi-Camera Odometry](http://arxiv.org/abs/2609.40244v1) (2026-09-30)
-*   [Tactile Curiosity Drives Robot Interaction](http://arxiv.org/abs/2609.40134v1) (2026-09-30)
-*   [Multi-Link Safety Filtering for VLA Policies Around Moving Hazards](http://arxiv.org/abs/2609.40007v1) (2026-09-30)
-*   [EWAM: Emergent Depth-Wise Specialization in a Unified Embodied Model -- From Semantic Understanding through Visual Foresight to Action](http://arxiv.org/abs/2609.39973v1) (2026-09-30)
+*   [Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models](http://arxiv.org/abs/2610.10526v1) (2026-10-07)
+*   [HuMBLE: Human Motion-Driven Behavior Learning for Embodied Locomotion](http://arxiv.org/abs/2610.10489v1) (2026-10-07)
+*   [Q-Learning with Scalar Adjoint Matching](http://arxiv.org/abs/2610.10437v1) (2026-10-07)
+*   [Explicit Geometric Chain-of-Thought for Vision-Language-Action in Autonomous Driving](http://arxiv.org/abs/2610.10390v1) (2026-10-07)
+*   [Do Vision-Language-Action Models Understand Instructions? A Mechanistic Interpretability Study on Language Grounding](http://arxiv.org/abs/2610.10178v1) (2026-10-07)
