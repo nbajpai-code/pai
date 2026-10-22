@@ -75,11 +75,11 @@ A comprehensive, curated list of resources for **Physical AI**, the next frontie
 ---
 
 ## 🔄 Dynamic Updates
-*Last Updated: 2026-10-15 12:59:24 UTC*
+*Last Updated: 2026-10-22 13:20:48 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving](http://arxiv.org/abs/2610.20609v1) (2026-10-14)
-*   [Graph-Reweighted Behavior Cloning with Human Interventions for Precise Robotic Manipulation](http://arxiv.org/abs/2610.20504v1) (2026-10-14)
-*   [AdaRSI: On-Demand Recursive Self-Improvement for Embodied Agents](http://arxiv.org/abs/2610.20474v1) (2026-10-14)
-*   [Towards Agentic Robots: Model, Data, Environment, and Harness](http://arxiv.org/abs/2610.20442v1) (2026-10-14)
-*   [Human Demonstrations as Post-Training Data for Any Robot Body: Retargeting the Object, Not the Hand](http://arxiv.org/abs/2610.20351v1) (2026-10-14)
+*   [AtomicRL: Atomic Reinforcement Learning for Long-Horizon Robotic Manipulation](http://arxiv.org/abs/2610.30097v1) (2026-10-21)
+*   [SP-HLM: Sparse-Pose-Driven Motion Generation and Whole-Body Control for Humanoid Loco-Manipulation](http://arxiv.org/abs/2610.30044v1) (2026-10-21)
+*   [GeoMem-VLA: Internalizing 3D Scene Understanding into Temporal Memory for Vision-Language-Action Models](http://arxiv.org/abs/2610.29866v1) (2026-10-21)
+*   [Robot Generalization Beyond Volume: The Diversity Path via Zero-Shot Capabilities](http://arxiv.org/abs/2610.29829v1) (2026-10-21)
+*   [OMAR: Open-World Multi-Attribute Reasoning for Scene-Conditioned Shelf Organization](http://arxiv.org/abs/2610.29761v1) (2026-10-21)
