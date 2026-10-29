@@ -75,11 +75,11 @@ A comprehensive, curated list of resources for **Physical AI**, the next frontie
 ---
 
 ## 🔄 Dynamic Updates
-*Last Updated: 2026-10-22 13:20:48 UTC*
+*Last Updated: 2026-10-29 14:51:37 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [AtomicRL: Atomic Reinforcement Learning for Long-Horizon Robotic Manipulation](http://arxiv.org/abs/2610.30097v1) (2026-10-21)
-*   [SP-HLM: Sparse-Pose-Driven Motion Generation and Whole-Body Control for Humanoid Loco-Manipulation](http://arxiv.org/abs/2610.30044v1) (2026-10-21)
-*   [GeoMem-VLA: Internalizing 3D Scene Understanding into Temporal Memory for Vision-Language-Action Models](http://arxiv.org/abs/2610.29866v1) (2026-10-21)
-*   [Robot Generalization Beyond Volume: The Diversity Path via Zero-Shot Capabilities](http://arxiv.org/abs/2610.29829v1) (2026-10-21)
-*   [OMAR: Open-World Multi-Attribute Reasoning for Scene-Conditioned Shelf Organization](http://arxiv.org/abs/2610.29761v1) (2026-10-21)
+*   [ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning](http://arxiv.org/abs/2610.37666v1) (2026-10-27)
+*   [World Dreamer v5-lite: A Multi-Robot World Action Model with One Dreamer](http://arxiv.org/abs/2610.37518v1) (2026-10-27)
+*   [PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations](http://arxiv.org/abs/2610.37381v1) (2026-10-27)
+*   [VLA-Stem: A Lightweight Safety Mechanism for Vision-Language-Action Models via Reinforcement Learning](http://arxiv.org/abs/2610.37378v1) (2026-10-27)
+*   [Tokens of Motion: Primitive Motion Learning for Human-Humanoid Skill Transfer](http://arxiv.org/abs/2610.37330v1) (2026-10-27)
