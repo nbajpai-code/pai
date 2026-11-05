@@ -75,11 +75,11 @@ A comprehensive, curated list of resources for **Physical AI**, the next frontie
 ---
 
 ## 🔄 Dynamic Updates
-*Last Updated: 2026-10-29 14:51:37 UTC*
+*Last Updated: 2026-11-05 15:58:32 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning](http://arxiv.org/abs/2610.37666v1) (2026-10-27)
-*   [World Dreamer v5-lite: A Multi-Robot World Action Model with One Dreamer](http://arxiv.org/abs/2610.37518v1) (2026-10-27)
-*   [PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations](http://arxiv.org/abs/2610.37381v1) (2026-10-27)
-*   [VLA-Stem: A Lightweight Safety Mechanism for Vision-Language-Action Models via Reinforcement Learning](http://arxiv.org/abs/2610.37378v1) (2026-10-27)
-*   [Tokens of Motion: Primitive Motion Learning for Human-Humanoid Skill Transfer](http://arxiv.org/abs/2610.37330v1) (2026-10-27)
+*   [From Pixels to Actions - Towards Native Vision-Language-Action Policies](http://arxiv.org/abs/2611.06918v1) (2026-11-04)
+*   [Perceptive Humanoid Motion from Simulation](http://arxiv.org/abs/2611.06908v1) (2026-11-04)
+*   [Open-HumanScale: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models](http://arxiv.org/abs/2611.06817v1) (2026-11-04)
+*   [Where Is VLA Inference Time Spent? Bottlenecks and Optimization Interactions Across GPUs](http://arxiv.org/abs/2611.06710v1) (2026-11-04)
+*   [Interactive World Simulation with Cosmos for Physical AI](http://arxiv.org/abs/2611.06627v1) (2026-11-04)
