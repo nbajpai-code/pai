@@ -75,11 +75,11 @@ A comprehensive, curated list of resources for **Physical AI**, the next frontie
 ---
 
 ## 🔄 Dynamic Updates
-*Last Updated: 2026-11-05 15:58:32 UTC*
+*Last Updated: 2026-11-12 16:28:40 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [From Pixels to Actions - Towards Native Vision-Language-Action Policies](http://arxiv.org/abs/2611.06918v1) (2026-11-04)
-*   [Perceptive Humanoid Motion from Simulation](http://arxiv.org/abs/2611.06908v1) (2026-11-04)
-*   [Open-HumanScale: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models](http://arxiv.org/abs/2611.06817v1) (2026-11-04)
-*   [Where Is VLA Inference Time Spent? Bottlenecks and Optimization Interactions Across GPUs](http://arxiv.org/abs/2611.06710v1) (2026-11-04)
-*   [Interactive World Simulation with Cosmos for Physical AI](http://arxiv.org/abs/2611.06627v1) (2026-11-04)
+*   [Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies](http://arxiv.org/abs/2611.14488v1) (2026-11-10)
+*   [One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge](http://arxiv.org/abs/2611.14432v1) (2026-11-10)
+*   [Personalized Affective Perception via Continual Learning in Human-Agent Negotiation](http://arxiv.org/abs/2611.14247v1) (2026-11-10)
+*   [DexSeed: Expanding Human Hand-Object Interactions into Robot Demonstrations for Dexterous Policy Learning](http://arxiv.org/abs/2611.14092v1) (2026-11-10)
+*   [ReACT: Reflection-Consistent Modulation and Cross-Load Consistency for Humanoid Velocity Tracking Under Asymmetric Loads](http://arxiv.org/abs/2611.13929v1) (2026-11-10)
