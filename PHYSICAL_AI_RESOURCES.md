@@ -75,11 +75,11 @@ A comprehensive, curated list of resources for **Physical AI**, the next frontie
 ---
 
 ## 🔄 Dynamic Updates
-*Last Updated: 2026-11-12 16:28:40 UTC*
+*Last Updated: 2026-11-19 16:58:31 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies](http://arxiv.org/abs/2611.14488v1) (2026-11-10)
-*   [One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge](http://arxiv.org/abs/2611.14432v1) (2026-11-10)
-*   [Personalized Affective Perception via Continual Learning in Human-Agent Negotiation](http://arxiv.org/abs/2611.14247v1) (2026-11-10)
-*   [DexSeed: Expanding Human Hand-Object Interactions into Robot Demonstrations for Dexterous Policy Learning](http://arxiv.org/abs/2611.14092v1) (2026-11-10)
-*   [ReACT: Reflection-Consistent Modulation and Cross-Load Consistency for Humanoid Velocity Tracking Under Asymmetric Loads](http://arxiv.org/abs/2611.13929v1) (2026-11-10)
+*   [$Z$-sight: Unifying Vision-Language-Action and Latent World Modeling](http://arxiv.org/abs/2611.24940v1) (2026-11-18)
+*   [NereidVLA: Learning to Understand and Navigate the Underwater World](http://arxiv.org/abs/2611.24864v1) (2026-11-18)
+*   [RoboMorpher: Scaling Robot Morphology Representations for Cross-Embodiment Action Prediction](http://arxiv.org/abs/2611.24816v1) (2026-11-18)
+*   [SHAPE: Discrete Supervision and Parallel Continuous Streams for Learning Dexterous Manipulation from Egocentric Human Data](http://arxiv.org/abs/2611.24585v1) (2026-11-18)
+*   [RECLAIM: Robot-Vision-Informed Adversarial Patch Defense via Embodied Attention Feedback](http://arxiv.org/abs/2611.24494v1) (2026-11-18)
